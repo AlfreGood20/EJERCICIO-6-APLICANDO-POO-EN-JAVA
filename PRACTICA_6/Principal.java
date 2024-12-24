@@ -4,7 +4,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		Aula aula=new Aula();
-        aula.mostrarInfo();
+        	aula.mostrarInfo();
         
         if(aula.darClase()) {
         	System.out.println("Si hubo clase.....");
